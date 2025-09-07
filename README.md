@@ -46,7 +46,7 @@ O design é simples, mas elegante, ideal para **portfólios, apresentações vis
 1. Clone este repositório:
 
    ```bash
-   git clone https://github.com/Cincoer/panfleto_interativo.git
+   git clone https://github.com/seuusuario/panfleto_interativo.git
    ```
 2. Abra o arquivo **index.html** no navegador.
 3. Substitua a imagem `download (8).jpeg` na pasta **img/** pela sua própria arte.
